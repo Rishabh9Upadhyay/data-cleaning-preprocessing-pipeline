@@ -36,19 +36,19 @@ Applied interpolation and imputation techniques
 
 Dropped irrelevant or highly incomplete columns (if necessary)
 
-2️⃣ Outlier Detection & Treatment
+# Outlier Detection & Treatment
 
 Used statistical methods (IQR / Z-score)
 
 Capped or removed extreme values
 
-3️⃣ Data Encoding
+# Data Encoding
 
 Applied label encoding / one-hot encoding for categorical variables
 
 Converted text categories into numerical format
 
-4️⃣ Feature Scaling
+# Feature Scaling
 
 Standardization (StandardScaler approach)
 
